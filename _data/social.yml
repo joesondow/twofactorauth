@@ -108,9 +108,9 @@ websites:
       tfa: Yes
       sms: Yes
       exceptions:
-          text: "SMS only available on select providers. SMS required for 2FA. 1 account per phone number, 1 phone number per account."
+          text: "SMS only available on select providers. SMS required for 2FA. 10 accounts per phone number, 1 phone number per account."
       software: Yes
-      doc: https://support.twitter.com/articles/20170388
+      doc: https://support.twitter.com/articles/110250
 
     - name: VanillaForums.com
       url: https://vanillaforums.com
